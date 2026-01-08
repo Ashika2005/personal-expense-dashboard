@@ -47,32 +47,29 @@ Track your transactions, categorize them as income or expense, view savings, set
 ```bash
 git clone https://github.com/yourusername/personal-expense-dashboard.git
 cd expense-tracker-django
-### 2️⃣ Create a Virtual Environment
-``` bash
+```
+### 2. **Create a virtual environment**
+```bash
 python -m venv venv
-3️⃣ Activate the Virtual Environment
 
-Windows
-
+```
+### 3. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/finance-tracker.git
+cd finance-tracker
+```
+### 4. **Activate the virtual environment**
+```bash
 venv\Scripts\activate
 
-
-Mac / Linux
-
-source venv/bin/activate
-
-4️⃣ Install Dependencies
+```
+### 5. ** Install Project Dependencies**
+```bash
 pip install -r requirements.txt
 
-5️⃣ Run Migrations
-python manage.py migrate
-
-6️⃣ Start the Development Server
+```
+### 6. ** Start the Development Server**
+```bash
 python manage.py runserver
 
-
-Open your browser and visit:
-
-http://127.0.0.1:8000/
-
-
+```
