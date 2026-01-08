@@ -46,7 +46,7 @@ Track your transactions, categorize them as income or expense, view savings, set
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/yourusername/personal-expense-dashboard.git
-cd expense-tracker-django
+cd personal-expense-dashboard
 ```
 ### 2. **Create a virtual environment**
 ```bash
@@ -55,8 +55,8 @@ python -m venv venv
 ```
 ### 3. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/finance-tracker.git
-cd finance-tracker
+git clone https://github.com/yourusername/personal-expense-dashboard.git
+cd personal-expense-dashboard
 ```
 ### 4. **Activate the virtual environment**
 ```bash
